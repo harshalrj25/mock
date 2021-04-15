@@ -20,5 +20,5 @@ GET https://mockend.com/harshalrj25/mock/comments
 GET https://mockend.com/harshalrj25/mock/comments/<id>
   
   
-GraphQL, will be available at:
+GraphQL mock available at:
 https://mockend.com/harshalrj25/mock/graphql
