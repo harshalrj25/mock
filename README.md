@@ -1,5 +1,5 @@
 # mock
-Repo to setup mock server
+Repo to setup mock server using https://mockend.com/
 
 URL to get mock posts
 https://mockend.com/harshalrj25/mock/posts
@@ -11,3 +11,14 @@ https://mockend.com/harshalrj25/mock/comments
 
 URL to get mock users
 https://mockend.com/harshalrj25/mock/users
+
+
+Sample Routes
+GET https://mockend.com/harshalrj25/mock/posts
+GET https://mockend.com/harshalrj25/mock/posts/<id>
+GET https://mockend.com/harshalrj25/mock/comments
+GET https://mockend.com/harshalrj25/mock/comments/<id>
+  
+  
+GraphQL, will be available at:
+https://mockend.com/harshalrj25/mock/graphql
