@@ -9,11 +9,11 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
-  "User":{
-    "name":"string",
-    "address":"string",
-    "id":"int",
+  },
+  "User": {
+    "name": "string",
+    "address": "string",
+    "id": "int",
     "birthDate": "date"
    }
 }
