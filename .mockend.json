@@ -10,4 +10,10 @@
     "body": "string",
     "post": "Post"
   }
+  "User":{
+    "name":"string",
+    "address":"string",
+    "id":"int",
+    "birthDate": "date"
+   }
 }
